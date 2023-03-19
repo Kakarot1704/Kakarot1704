@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kakarot1704 alias Vamsidhar Sivakumar
-- 👀 Looking forward to work in the field of Data Science and Business Analytics
+- 👋 Hi, I’m @Kakarot1704 alias Vamsidhar Sivakumar.
+- 👀 Looking forward to work in the field of Data Science and Business Analytics.
 
 
 <!---

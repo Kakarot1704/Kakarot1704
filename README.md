@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Kakarot1704
-- 👀 I’m interested in Data Science and Business Analytics
-- 🌱 I’m currently learning Data science and Business Analytics
+- 👋 Hi, I’m @Kakarot1704 alias Vamsidhar Sivakumar
+- 👀 Looking forward to work in the field of Data Science and Business Analytics
 
 
 <!---
